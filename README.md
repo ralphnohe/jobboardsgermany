@@ -13,7 +13,7 @@ List of Top Job Boards in Germany
     <ul>
         <li>
             <a href="https://www.pendelnwargestern.de" target="_blank">Pendelnwargestern.de</a>
-            - Eine Plattform, die innovative Konzepte für das Arbeiten von zu Hause und alternative Pendellösungen bietet.
+            - Eine Job-Plattform, die innovative Konzepte für das Arbeiten von zu Hause und Remote Working bietet.
         </li>
         <li>
             <a href="https://www.staatsjobs.com" target="_blank">StaatsJobs.com</a>
